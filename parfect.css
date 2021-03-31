@@ -1,0 +1,31 @@
+body{background:url(background.jpg); background-position: center; background-size: cover; font-family: leto;}
+
+.navbar-inverse {
+  background-color: white;
+}
+.navbar-inverse {
+  background-color: #2c3e50;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #cce0e0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #cce0e0;
+}
+
+html{height:100%;}
+
+hr{width: 400px; border-top: 1px solid gray; border-bottom: 1px solid gray;}
+
+h1 , h3 {color: white;}
+
+h1{font-weight: 700; font-size: 5em;}
+
+
+#content{text-align: center; padding-top: 25%; 
+
+	text-shadow: 0px 10px 5px white, 0px 12px 18px gray,0px 26px 13px brown;
+
+}
